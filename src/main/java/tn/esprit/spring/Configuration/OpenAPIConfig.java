@@ -32,7 +32,7 @@ public class OpenAPIConfig {
         Contact contact = new Contact().name("Ahmed_Debbiche-4SE4")
                 .email("ahmed.debbiche@esprit.tn")
                 .url("https://www.linkedin.com/in/ahmed-debbiche007/")
-                .url("https://gitlab.com/Ahmed-Debbiche007");
+                .url("https://github.com/Ahmed-Debbiche007");
         return contact;
     }
 
